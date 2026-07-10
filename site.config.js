@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: '콘텐츠이용료현금화 정식 등록 대행사. 투명한 거래 방식과 철저한 보안으로 당일 즉시 안전하게 진행해 드립니다.',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/sample.png',
-  naverVerificationCode: '',
+  naverVerificationCode: 'b1f8557ca7011b30e0d1d3db74386cbe25b62633',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
